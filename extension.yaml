@@ -1,8 +1,5 @@
-Name: IronPython Extension
-Author: John Doe
+Name: Game Analytics Extension
+Author: Neeraj Verma
 Version: 1.0
 Module: IronPythonScript.py
 Type: Script
-Functions: 
-    - Description: menu_function
-      FunctionName: MenuFunctionDescription
